@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class Correspondence {
   final String id;
   final DateTime date;

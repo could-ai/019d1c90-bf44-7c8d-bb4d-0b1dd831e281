@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../models/correspondence.dart';
 import '../providers/correspondence_provider.dart';
 import '../utils/csv_exporter.dart';
+import 'form_widget.dart';
 
 class TableWidget extends StatefulWidget {
   const TableWidget({super.key});
